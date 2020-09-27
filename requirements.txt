@@ -1,7 +1,8 @@
 voila
 fastai>=2
-pillow<7
+pillow
 packaging
 ipywidgets==7.5.1
 pytesseract==0.3.6
 transformers==3.2.0
+googledrivedownloader
