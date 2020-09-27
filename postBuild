@@ -1,2 +1,2 @@
 wget https://github.com/tesseract-ocr/tessdata/blob/master/deu.traineddata
-mv -v deu.traineddata ../../usr/share/tesseract-ocr/
+sudo mv -v deu.traineddata ../../usr/share/tesseract-ocr/
