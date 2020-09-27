@@ -1,3 +1,4 @@
 libleptonica-dev 
 tesseract-ocr
 libtesseract-dev
+mv -v deu.traineddata ../../usr/share/tesseract-ocr/
