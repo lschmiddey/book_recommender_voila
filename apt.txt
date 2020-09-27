@@ -1,3 +1,4 @@
 libleptonica-dev 
-tesseract-ocr 
+tesseract-ocr
+tesseract-ocr-dev
 libtesseract-dev
